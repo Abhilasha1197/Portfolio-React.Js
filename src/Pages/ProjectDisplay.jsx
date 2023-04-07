@@ -17,8 +17,8 @@ import '../styles/ProjectDisplay.css' ;
         <b>skills:</b> {project.skills}
       </p>
       
-    <a href={project.githublink}><GitHubIcon /></a> 
-   <a href={project.hostedlink}><OpenInNewIcon /></a>
+    <a href={project.githublink} target="_blank" rel="noop noreferrer"><GitHubIcon /></a> 
+   <a href={project.hostedlink} target="_blank" rel="noop noreferrer"><OpenInNewIcon /></a>
     </div>
   )
 }

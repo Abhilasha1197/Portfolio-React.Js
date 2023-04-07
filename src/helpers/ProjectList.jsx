@@ -46,7 +46,7 @@ export const ProjectList =[
         image: Proj5,
         skills: 'React.js, CSS3, JavaScript, HTML5, Material UI',
         githublink :'https://github.com/Abhilasha1197/movieApp.git',
-        hostedlink: 'https://preeminent-starship-9d83a1.netlify.app/movie/631842'
+        hostedlink: 'https://preeminent-starship-9d83a1.netlify.app/movie/631842/'
     },
 
     {
