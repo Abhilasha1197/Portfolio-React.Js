@@ -4,7 +4,6 @@ import Proj3 from '../assets/Proj3.jpg';
 import Proj4 from '../assets/Proj4.jpg';
 import Proj5 from '../assets/Proj5.jpg';
 import Proj6 from '../assets/Proj6.jpg';
-import Proj7 from '../assets/Proj7.jpg';
 import Proj8 from '../assets/Proj8.jpg';
 import Proj9 from '../assets/Proj9.jpg';
 
