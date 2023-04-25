@@ -29,7 +29,7 @@ import '../styles/Home.css';
             </li>
             <li className='item'>
             <h2>Backend</h2>
-            <span>firebase ;) </span>
+            <span>firebase (Baas) </span>
             </li>
          </ul>
       </div>
