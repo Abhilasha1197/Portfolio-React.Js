@@ -25,7 +25,7 @@ function Experience() {
           </h4>
           <p>Build Frontend Projects from scratch using Frontend Skills.</p>
           <p>Tech Skills learnt: React.js, Redux, javaScript, HTML5, CSS3, JAVA</p>
-          <p>Participated in various coding contenst</p>
+          <p>Participated in various coding contests</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
