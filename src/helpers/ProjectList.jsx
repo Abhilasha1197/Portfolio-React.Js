@@ -58,14 +58,6 @@ export const ProjectList =[
     },
 
     {
-        name : 'Portfolio',
-        image: Proj7,
-        skills: 'HTML5, CSS3, React.Js, javaScript',
-        githublink :'https://github.com/Abhilasha1197/Portfolio-React.Js.git',
-        hostedlink: ''
-    },
-
-    {
         name : 'Calculator',
         image: Proj8,
         skills: 'HTML5,CSS3,javaScript' ,
