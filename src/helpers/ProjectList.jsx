@@ -44,8 +44,8 @@ export const ProjectList =[
         name: 'IMDB Clone',
         image: Proj5,
         skills: 'React.js, CSS3, JavaScript, HTML5, Material UI',
-        githublink :'https://github.com/Abhilasha1197/movieApp.git',
-        hostedlink: 'https://preeminent-starship-9d83a1.netlify.app/'
+        githublink :'',
+        hostedlink: 'https://genuine-kitsune-7f8c69.netlify.app/'
     },
 
     {
