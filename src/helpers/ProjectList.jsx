@@ -44,7 +44,7 @@ export const ProjectList =[
         name: 'IMDB Clone',
         image: Proj5,
         skills: 'React.js, CSS3, JavaScript, HTML5, Material UI',
-        githublink :'',
+        githublink :'https://github.com/Abhilasha1197/Movix-React-Redux.git',
         hostedlink: 'https://genuine-kitsune-7f8c69.netlify.app/'
     },
 
