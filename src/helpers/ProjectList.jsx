@@ -41,11 +41,11 @@ export const ProjectList =[
         hostedlink: 'https://resplendent-panda-63a58d.netlify.app/'
     },
     {
-        name: 'Movix',
+        name: 'MovieApp',
         image: Proj5,
-        skills: 'React.js, CSS3, JavaScript, HTML5, Redux Toolkit',
-        githublink :'https://github.com/Abhilasha1197/Movix-React-Redux.git',
-        hostedlink: 'https://genuine-kitsune-7f8c69.netlify.app/'
+        skills: 'React.js, CSS3, JavaScript, HTML5',
+        githublink :'https://github.com/Abhilasha1197/movieApp.git',
+        hostedlink: 'https://luxury-dolphin-1603fa.netlify.app/'
     },
 
     {
